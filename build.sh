@@ -1,0 +1,1 @@
+func deploy -b=s2i -v
